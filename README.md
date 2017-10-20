@@ -1,4 +1,4 @@
 # metasploit
 
-TODO: Enter the cookbook description here.
+This cookbook installs Metasploit on Unix/Linux systems.
 
